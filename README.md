@@ -27,6 +27,8 @@ It was built out of frustration of sitting on Netflix too long without any decis
 
 3. `cd server` and `npm run dev` could instead do `npm run build` and `npm run start`.
 
+4. change `.env copy` to `.env` and add your own Google Maps API key and The Movie DB API Key
+
 ## Tech Stack
 
 Testing:
